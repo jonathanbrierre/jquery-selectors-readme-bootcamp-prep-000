@@ -16,6 +16,6 @@ function divSelector(){
 }
 
 function firstListIten(){
-  return $('ul #pic-list:first-child')
+  return $('#pic-list li:first-child')
 }
 mocha.run()
