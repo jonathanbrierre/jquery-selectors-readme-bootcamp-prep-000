@@ -7,5 +7,8 @@ function lastImageSelector(){
  return $('img:last')
 }
 
+function ninjaBabySelector(){
+  return $('')
+}
 
 mocha.run()
