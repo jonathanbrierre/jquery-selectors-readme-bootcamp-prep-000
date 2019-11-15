@@ -15,7 +15,7 @@ function divSelector(){
   return $('div.pics')
 }
 
-function firstListIten(){
+function firstListItem(){
   return $('#pic-list li:first-child')
 }
 mocha.run()
